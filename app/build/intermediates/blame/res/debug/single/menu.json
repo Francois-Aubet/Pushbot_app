@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Francois\\Documents\\NST\\proj_1\\test\\PushbotControl\\app\\build\\intermediates\\res\\merged\\debug\\menu\\bot.xml",
+        "source": "C:\\Users\\Francois\\Documents\\NST\\proj_1\\test\\PushbotControl\\app\\src\\main\\res\\menu\\bot.xml"
+    },
+    {
+        "merged": "C:\\Users\\Francois\\Documents\\NST\\proj_1\\test\\PushbotControl\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Francois\\Documents\\NST\\proj_1\\test\\PushbotControl\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Francois\\Documents\\NST\\proj_1\\test\\PushbotControl\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_touch.xml",
+        "source": "C:\\Users\\Francois\\Documents\\NST\\proj_1\\test\\PushbotControl\\app\\src\\main\\res\\menu\\activity_touch.xml"
+    },
+    {
+        "merged": "C:\\Users\\Francois\\Documents\\NST\\proj_1\\test\\PushbotControl\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_buttons.xml",
+        "source": "C:\\Users\\Francois\\Documents\\NST\\proj_1\\test\\PushbotControl\\app\\src\\main\\res\\menu\\activity_buttons.xml"
+    },
+    {
+        "merged": "C:\\Users\\Francois\\Documents\\NST\\proj_1\\test\\PushbotControl\\app\\build\\intermediates\\res\\merged\\debug\\menu\\i.xml",
+        "source": "C:\\Users\\Francois\\Documents\\NST\\proj_1\\test\\PushbotControl\\app\\src\\main\\res\\menu\\i.xml"
+    },
+    {
+        "merged": "C:\\Users\\Francois\\Documents\\NST\\proj_1\\test\\PushbotControl\\app\\build\\intermediates\\res\\merged\\debug\\menu\\global.xml",
+        "source": "C:\\Users\\Francois\\Documents\\NST\\proj_1\\test\\PushbotControl\\app\\src\\main\\res\\menu\\global.xml"
+    },
+    {
+        "merged": "C:\\Users\\Francois\\Documents\\NST\\proj_1\\test\\PushbotControl\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_video.xml",
+        "source": "C:\\Users\\Francois\\Documents\\NST\\proj_1\\test\\PushbotControl\\app\\src\\main\\res\\menu\\activity_video.xml"
+    }
+]

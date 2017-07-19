@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Francois\\Documents\\NST\\proj_1\\test\\PushbotControl\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\activity_accelerometer.xml",
+        "source": "C:\\Users\\Francois\\Documents\\NST\\proj_1\\test\\PushbotControl\\app\\src\\main\\res\\layout-xlarge\\activity_accelerometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Francois\\Documents\\NST\\proj_1\\test\\PushbotControl\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\activity_activity_buttons.xml",
+        "source": "C:\\Users\\Francois\\Documents\\NST\\proj_1\\test\\PushbotControl\\app\\src\\main\\res\\layout-xlarge\\activity_activity_buttons.xml"
+    },
+    {
+        "merged": "C:\\Users\\Francois\\Documents\\NST\\proj_1\\test\\PushbotControl\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\activity_video.xml",
+        "source": "C:\\Users\\Francois\\Documents\\NST\\proj_1\\test\\PushbotControl\\app\\src\\main\\res\\layout-xlarge\\activity_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\Francois\\Documents\\NST\\proj_1\\test\\PushbotControl\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\activity_botoptions.xml",
+        "source": "C:\\Users\\Francois\\Documents\\NST\\proj_1\\test\\PushbotControl\\app\\src\\main\\res\\layout-xlarge\\activity_botoptions.xml"
+    },
+    {
+        "merged": "C:\\Users\\Francois\\Documents\\NST\\proj_1\\test\\PushbotControl\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\activity_ip.xml",
+        "source": "C:\\Users\\Francois\\Documents\\NST\\proj_1\\test\\PushbotControl\\app\\src\\main\\res\\layout-xlarge\\activity_ip.xml"
+    },
+    {
+        "merged": "C:\\Users\\Francois\\Documents\\NST\\proj_1\\test\\PushbotControl\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\activity_touch.xml",
+        "source": "C:\\Users\\Francois\\Documents\\NST\\proj_1\\test\\PushbotControl\\app\\src\\main\\res\\layout-xlarge\\activity_touch.xml"
+    },
+    {
+        "merged": "C:\\Users\\Francois\\Documents\\NST\\proj_1\\test\\PushbotControl\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\activity_bot.xml",
+        "source": "C:\\Users\\Francois\\Documents\\NST\\proj_1\\test\\PushbotControl\\app\\src\\main\\res\\layout-xlarge\\activity_bot.xml"
+    }
+]
